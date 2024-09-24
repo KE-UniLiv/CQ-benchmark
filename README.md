@@ -1,4 +1,4 @@
-# CQs Benchmark
+# CQ Benchmark
 
 A repository dedicated to collecting Competency Questions (CQs). This is an ongoing project, and the page will be continuously updated. For each resource, whether it's a dataset of CQs or individual ontologies, we provide the resource name, the number of CQs, a description of the related paper(s) along with the link to the paper, and a direct link to the corresponding CQs.
 
