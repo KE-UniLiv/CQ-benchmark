@@ -9,5 +9,5 @@
 | 2024 | Proceedings of the 35th International Conference on Advanced Information Systems Engineering, CAiSE Forum 2024 | Requirement-Based Methodological Steps to Identify Ontologies for Reuse | [PDF](https://livrepository.liverpool.ac.uk/3181826/1/Caise2024-2.pdf) |
 | 2024 | Proceedings of the 2024 AAAI Fall Symposia  | Investigating Open Source LLMs to Retrofit Competency Questions in Ontology Engineering | [PDF](https://livrepository.liverpool.ac.uk/3184941/) |
 | 2024 | Proceedings of the 24th International Conference on Knowledge Engineering and Knowledge Management EKAW'24 | A review and comparison of competency question engineering approaches | [PDF](https://livrepository.liverpool.ac.uk/3184940/) |
-| 2024 |  Proceedings of the Special Session on the ISWC 2024  | Characteristics and Desiderata for Competency Question Benchmarks | [Google Drive](https://drive.google.com/file/d/1nqt5oWV4xGkqk8w1k_IASOH66IVZgsGv/view) |
+| 2024 |  Proceedings of the Special Session on the 23rd ISWC  | Characteristics and Desiderata for Competency Question Benchmarks | [Google Drive](https://drive.google.com/file/d/1nqt5oWV4xGkqk8w1k_IASOH66IVZgsGv/view) |
 
