@@ -3,7 +3,7 @@
 | Year | Venue | Paper Title | Link |
 |------|-------|-------------|------|
 | 2021 | Proceedings of the Doctoral Consortium at ISWC 2021 | Assessing Candidate Ontologies for Reuse | [PDF](https://ceur-ws.org/Vol-3005/09paper.pdf) |
-| 2021 | Proceedings of the  K-CAP'21 | Characterising the gap between theory and practice of ontology reuse | [PDF](https://livrepository.liverpool.ac.uk/3142367/1/Characterising_the_Gap_Between_Theory_and_Practice_of_Ontology_Reuse.pdf) |
+| 2021 | Proceedings of the  K-CAP'21 | Characterising the gap between theory and practice of ontology reuse | (https://dl.acm.org/doi/10.1145/3460210.3493568) |
 | 2023 | Proceedings of the AISB'23 | NLP Based Framework for Recommending Candidate Ontologies for Reuse | [Proceedings](https://aisb.org.uk/convention-proceedings/) |
 | 2023 | Proceedings of the 39th Annual ACM Symposium on Applied Computing SAC'23| An experiment in retrofitting competency questions for existing ontologies | [ArXiv](https://arxiv.org/abs/2311.05662) |
 | 2024 | Proceedings of the 35th International Conference on Advanced Information Systems Engineering, CAiSE Forum 2024 | Requirement-Based Methodological Steps to Identify Ontologies for Reuse | [PDF](https://livrepository.liverpool.ac.uk/3181826/1/Caise2024-2.pdf) |
